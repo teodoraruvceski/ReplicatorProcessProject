@@ -1,0 +1,6 @@
+﻿  Process.cpp
+C:\Users\Teodora\Desktop\ReplicatorProcessProject\Process\Process.cpp(16,7): warning C4101: 'dataBuffer': unreferenced local variable
+  main.cpp
+C:\Users\Teodora\Desktop\ReplicatorProcessProject\Process\main.cpp(15,6): warning C4101: 'id': unreferenced local variable
+  Generating Code...
+  Process.vcxproj -> C:\Users\Teodora\Desktop\ReplicatorProcessProject\Debug\Process.exe

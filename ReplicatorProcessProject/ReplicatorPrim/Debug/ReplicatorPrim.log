@@ -1,0 +1,6 @@
+﻿  Connection.cpp
+  main.cpp
+C:\Users\Teodora\Desktop\ReplicatorProjekatIKP\ReplicatorProjekatIKP\main.cpp(15,9): warning C4101: 'hListenForRegistrations': unreferenced local variable
+C:\Users\Teodora\Desktop\ReplicatorProjekatIKP\ReplicatorProjekatIKP\main.cpp(14,8): warning C4101: 'ListenForRegistrationsID': unreferenced local variable
+  Generating Code...
+  ReplicatorPrim.vcxproj -> C:\Users\Teodora\Desktop\ReplicatorProcessProject\Debug\ReplicatorPrim.exe
